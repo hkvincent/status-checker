@@ -27,6 +27,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.vincentchan.info/',
+      // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
+      tooltip: 'This is a tooltip for this monitor',
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
@@ -37,6 +39,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.vchat.today/',
+      // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
+      tooltip: 'This is a tooltip for this monitor',
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
@@ -47,6 +51,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.vblog.live/',
+      // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
+      tooltip: 'This is a tooltip for this monitor',
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
@@ -57,6 +63,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.storyway.win/',
+      // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
+      tooltip: 'This is a tooltip for this monitor',
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
@@ -67,6 +75,8 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.vseeworld.online/',
+      // [OPTIONAL] `tooltip` is ONLY used at status page to show a tooltip
+      tooltip: 'This is a tooltip for this monitor',
     },
   ],
   callbacks: {
