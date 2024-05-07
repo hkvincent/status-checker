@@ -7,7 +7,7 @@ const pageConfig = {
     { link: 'https://www.vchat.today/', label: 'AI chat' },
     { link: 'https://www.vblog.live/', label: 'AI blog' },
     { link: 'https://www.storyway.win/', label: 'Cloud Storage' },
-    { link: 'https://www.vseeworld.online/', label: 'Movice'},
+    { link: 'https://www.vseeworld.online/', label: 'Movice' },
     { link: 'mailto:support@vincentchan.info', label: 'Email Me', highlight: true },
   ],
 }
@@ -67,7 +67,7 @@ const workerConfig = {
       method: 'GET',
       // `target` is a valid URL
       target: 'https://www.vseeworld.online/',
-    }
+    },
   ],
   callbacks: {
     onStatusChange: async (
