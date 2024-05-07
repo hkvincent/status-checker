@@ -20,9 +20,9 @@ const workerConfig = {
     // Example HTTP Monitor
     {
       // `id` should be unique, history will be kept if the `id` remains constant
-      id: 'foo_monitor',
+      id: 'personal',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'My Home Page',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
@@ -30,9 +30,9 @@ const workerConfig = {
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
-      id: 'foo_monitor',
+      id: 'vchat',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'CHAT AI',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
@@ -40,9 +40,9 @@ const workerConfig = {
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
-      id: 'foo_monitor',
+      id: 'blog AI',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'Blog AI',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
@@ -50,9 +50,9 @@ const workerConfig = {
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
-      id: 'foo_monitor',
+      id: 'storage',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'Cloud Stroage',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
@@ -60,9 +60,9 @@ const workerConfig = {
     },
     {
       // `id` should be unique, history will be kept if the `id` remains constant
-      id: 'foo_monitor',
+      id: 'Movies',
       // `name` is used at status page and callback message
-      name: 'My API Monitor',
+      name: 'Movies',
       // `method` should be a valid HTTP Method
       method: 'GET',
       // `target` is a valid URL
