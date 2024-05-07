@@ -3,9 +3,12 @@ const pageConfig = {
   title: "lyc8503's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.site/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.site', label: 'Email Me', highlight: true },
+    { link: 'https://www.vincentchan.info/', label: 'Home Page' },
+    { link: 'https://www.vchat.today/', label: 'AI chat' },
+    { link: 'https://www.vblog.live/', label: 'AI blog' },
+    { link: 'https://www.storyway.win/', label: 'Cloud Storage' },
+    { link: 'https://www.vseeworld.online/' label: 'Movice'},
+    { link: 'mailto:support@vincentchan.info', label: 'Email Me', highlight: true },
   ],
 }
 
